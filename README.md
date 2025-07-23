@@ -6,5 +6,4 @@
 ## Skills
 
 ## Contact
-<a href="https://www.instagram.com/keeezong"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://blog.naver.com/zlions2127"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
